@@ -1,7 +1,7 @@
 Version 5.2.0
 -------------
 
-* Protocol version is now 6 (requires Sentry 7.0 or newer).
+5.2.0.recursion (2015-02-13)
 * Added ``release`` option to Client.
 * Added ``fetch_git_sha`` helper.
 * Added ``fetch_package_version`` helper.
