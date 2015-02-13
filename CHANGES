@@ -1,6 +1,12 @@
 Version 5.2.0
 -------------
 
+5.2.0 (unreleased)
+******************
+
+- Nothing changed yet.
+
+
 5.2.0.recursion (2015-02-13)
 * Added ``release`` option to Client.
 * Added ``fetch_git_sha`` helper.
